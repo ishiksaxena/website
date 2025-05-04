@@ -1,3 +1,3 @@
 # Cafeteria Website
 
-A cafeteria website made as an inspo for college cafeteria in chitkara uni punjab.
+A cafeteria website made as an inspo for college cafeterias in real world.
